@@ -1,0 +1,22 @@
+# --- Core Math, Analytics & Feature Engineering ---
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# --- Schema Validation & Strict JSON Contract ---
+pydantic>=2.0.0
+
+# --- LLM Orchestration & Multi-Agent Swarm ---
+openai>=1.0.0
+langchain>=0.1.0
+langchain-core>=0.1.0
+
+# --- Semantic Policy Memory & RAG Retrieval ---
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+
+# --- Evaluation, Formatting & Utilities ---
+tqdm>=4.65.0
+tabulate>=0.9.0
+python-dateutil>=2.8.2
+pytest>=7.4.0
